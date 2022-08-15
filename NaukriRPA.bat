@@ -1,0 +1,1 @@
+start "" /min "C:\Users\%USERNAME%\AppData\Local\UiPath\app-19.5.0\UiRobot.exe" /file:"%systemdrive%\Naukri Recruitment POC\CandidateResumes\Main.xaml"
